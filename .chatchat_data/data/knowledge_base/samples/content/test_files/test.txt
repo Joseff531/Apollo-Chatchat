@@ -1,0 +1,37 @@
+Apollo-Chatchat sample text file
+================================
+
+This file is a small English placeholder used by the sample knowledge base
+and by automated tests in libs/apollo-chatchat-server/tests/.
+
+# How to ask ChatGPT to get high-quality answers: a quick reference
+
+ChatGPT is a large language model developed by OpenAI that can answer
+questions on a wide range of topics. Asking better prompts leads to better
+answers. A useful prompt has three parts:
+
+- Task: a clear, concise statement of what you want.
+- Instruction: how the model should behave.
+- Role: what persona the model should adopt.
+
+## Prompting techniques
+
+- Instruction prompting: give the model clear, specific instructions.
+- Role prompting: ask the model to act as a specific persona ("You are an
+  experienced kernel developer...").
+- Seed-word prompting: include a key term you want the model to expand on.
+- Few-shot prompting: include a couple of input/output examples.
+- Chain-of-thought prompting: ask the model to think step by step.
+
+## Example prompt formula
+
+"Following these instructions, generate {task}: {instruction}"
+
+For example:
+
+"Following these instructions, generate a professional customer-service
+reply: the response should be polite and provide accurate information."
+
+This is a placeholder document for the Apollo-Chatchat sample knowledge
+base. Replace it with your own content once you have populated the sample
+knowledge base for real use.

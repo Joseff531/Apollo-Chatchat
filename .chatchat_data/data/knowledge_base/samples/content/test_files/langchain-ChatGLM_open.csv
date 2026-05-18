@@ -1,0 +1,4 @@
+,title,file,url,detail,id
+0,How can the answer quality be improved,2023-04-04.00,https://github.com/Joseff531/Apollo-Chatchat/issues/14,"After combining the project's README.md with the project, the answer quality is not ideal. Where can we improve?",0
+1,How can the model be made to answer strictly from retrieved data and avoid hallucinations,2023-04-04.00,https://github.com/Joseff531/Apollo-Chatchat/issues/15,For example:,1
+2,How to limit the answer to information from a single matched document,2023-04-04.00,https://github.com/Joseff531/Apollo-Chatchat/issues/16,A short placeholder description.,2
