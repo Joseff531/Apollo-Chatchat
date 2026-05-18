@@ -1,4 +1,4 @@
-![](docs/img/logo-long-chatchat-trans-v2.png)
+![](docs/img/logo.png)
 
 [![pypi badge](https://img.shields.io/pypi/v/apollo-chatchat.svg)](https://shields.io/)
 [![Generic badge](https://img.shields.io/badge/python-3.10%7C3.11-blue.svg)](https://pypi.org/project/pypiserver/)
